@@ -24,4 +24,5 @@ let generateToken = async (index, temp = "") => {
         }
     }
 }
+console.log("runnig...");
 generateToken(0);
